@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://mahendiran:magdmdgpam@cluster0.0etr1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId": "a6ddfc7af951dc24f0f0",
+    "githubSecret":"3e87cb0cf00de4fcad6f00b4e9647438b67562fa"
+
+}
