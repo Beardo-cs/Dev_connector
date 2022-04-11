@@ -5,8 +5,8 @@
   "main": "server.js",
   "engines": {
     "node": "v17.8.0",
-    "npm":"8.5.5"
-   },
+    "npm": "8.5.5"
+  },
   "scripts": {
     "start": "nodemon --exec babel-node src/server.js",
     "server": "nodemon server",
@@ -24,7 +24,7 @@
     "gravatar": "^1.8.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.1.6",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.0",
     "request": "^2.88.2",
     "serve": "^13.0.2"
   },
