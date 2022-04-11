@@ -35,7 +35,7 @@ const ProfileForm = ({
 
   const [displaySocialInputs, toggleSocialInputs] = useState(false);
 
-  const navigate = useNavigate();
+  const navigate = withRouter();
 
   useEffect(() => {
     // if there is no profile, attempt to fetch one
